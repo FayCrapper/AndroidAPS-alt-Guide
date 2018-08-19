@@ -1,4 +1,4 @@
-# Accu-Chek Combo Pump
+# Accu-Chek Combo Pump hey ho
 
 The Roche Accu-Chek Combo pump is widely available and can now be used for looping. However, due to some vagaries of the Bluetooth interface you will need to use a phone with LineageOS 14.1 in order to pair with it. If you want all the technical details why you can find them [here](https://github.com/gregorybel/combo-pairing/blob/master/README.md).
 
@@ -20,7 +20,7 @@ Please be aware that this is not complete list and reflects personal user experi
   For advanced users, it is possible to perform the pairing on a rooted phone and transfer it to another rooted
   phone to use with ruffy/AndroidAPS, which must also be rooted. This allows using phones with Android < 8.1 but
   has not been widely tested: https://github.com/gregorybel/combo-pairing/blob/master/README.md
-
+Help
 ## Limitations
 
 - Extended bolus and multiwave bolus are not supported (see [Extended Carbs](https://androidaps.readthedocs.io/en/latest/pages/Extended-Carbs.html) instead)
