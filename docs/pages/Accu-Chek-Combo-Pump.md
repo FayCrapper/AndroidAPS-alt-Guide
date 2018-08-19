@@ -20,7 +20,7 @@ Please be aware that this is not complete list and reflects personal user experi
   For advanced users, it is possible to perform the pairing on a rooted phone and transfer it to another rooted
   phone to use with ruffy/AndroidAPS, which must also be rooted. This allows using phones with Android < 8.1 but
   has not been widely tested: https://github.com/gregorybel/combo-pairing/blob/master/README.md
-
+Help
 ## Limitations
 
 - Extended bolus and multiwave bolus are not supported (see [Extended Carbs](https://androidaps.readthedocs.io/en/latest/pages/Extended-Carbs.html) instead)
